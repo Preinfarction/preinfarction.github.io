@@ -15,7 +15,7 @@ def is_chord_a_fluent_departure_from_initial_chord(chord, initial_chord):
 	return True
 
 def frequency_ratio_to_midi_number(frequency_ratio):
-	fr_cents = 1200 * math.log(frequency_ratio) / math.log(2)
+	fr_cents = 1200 * math.log2(frequency_ratio)
 	midi_number = (fr_cents / 100) + 57 - 12
 	return midi_number
 
@@ -314,7 +314,6 @@ starting_chord = [P1, P5, SpM10, P12, P15] # 5 notes, two hand piano voicing
 #starting_chord = [Sbm3, P5, Sbm7] # 3 notes, root position
 #starting_chord = [Sbm3, P5, Sbm7, Sbm10] # 4 notes, root position
 chord_sequence = [starting_chord]
-new_chord = add_chord(chord_sequence[-1], starting_chord)
 while len(chord_sequence) < 16:
 	new_chord = add_chord(chord_sequence[-1], starting_chord)
 	if new_chord != None and not are_chords_equal(new_chord, chord_sequence[-1]):
