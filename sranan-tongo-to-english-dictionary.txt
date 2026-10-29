@@ -1,0 +1,2601 @@
+-densi: -ence.
+-kondre: -ia, -land (forms country names). -dom, -ric (forms jurisdictions).
+-man: Person suffix, used to derive agent nouns from verbs as well as nouns for people characterised by a trait from nouns and adjectives.
+-sma
+-tongo: -ese, -an, -ian (forms language names).
+-wan
+Abeniba: a female given name from Akan, masculine equivalent Kwamina, given to a female born on a Tuesday.
+Adyuba: a female given name from Akan, masculine equivalent Kodyo, given to a female born on a Monday.
+Afiba: a female given name from Akan, masculine equivalent Kofi, given to a female born on a Friday.
+Afrekete: a deity in the Afro-Surinamese Winti belief system.
+Aga: The Hague (a city, the administrative capital of the Netherlands).
+Akama-yaw: Death, Grim Reaper; the personification of death in the Afro-Surinamese Winti belief system.
+Akuba: a female given name from Akan, masculine equivalent Kwaku, given to a female born on a Wednesday.
+Amba: a female given name from Akan, masculine equivalent Kwami, given to a female born on a Saturday.
+Anana: name of the creator god and supreme being of the Afro-Surinamese Winti belief system. God, Creator (the single male god of the Abrahamic religions).
+Anansi: Anansi (trickster spider in West African and Caribbean folklore).
+Anitri: Moravian (adherent of the Moravian Brotherhood).
+Arabiatongo: Arabic (language).
+Argentinia: Argentina (a country in South America).
+Bagansiyapiyapi: Timbuktu, Outer Mongolia, Faroffistan (any proverbially distant or remote place).
+Bakra: Dutch (of, from, or pertaining to the Netherlands, or the Dutch people).
+Bakra: Dutch person.
+Bakrakondre: Netherlands.
+Bakratongo: The Dutch language.
+Bedaki: Christmas.
+Bemre: Bijlmermeer (a borough of Amsterdam, North Holland, Netherlands).
+Bergi: Belgian (inhabitant of Belgium).
+Bergi: Belgian (relating to Belgium).
+Bergi: Belgium (a country in Western Europe that has borders with the Netherlands, Germany, Luxembourg and France).
+Bergi: Berg en Dal (a settlement and former plantation in Brokopondo, Suriname).
+Bimre: pronunciation spelling of Bemre (Bijlmermeer).
+Blanda: Netherlands.
+Bolifia: Bolivia (a country in South America).
+Brasyon: Brazil (a large Portuguese-speaking country in South America).
+Brasyon: Brazilian (A person from Brazil).
+Brasyon: Brazilian (Of, from, or pertaining to Brazil, or the Brazilian people).
+Bumba: a Winti deity.
+Chili: Chile (a country in South America).
+Damsko: Amsterdam (a city and municipality of North Holland, Netherlands; the capital city of the Netherlands).
+Deinsi: Dane (inhabitant of Denmark).
+Deinsi: Danish (relating to Denmark).
+Deinsi: Denmark (a country in Northern Europe).
+Doisri: German (inhabitant of Germany).
+Doisri: German (relating to Germany).
+Doisri: Germany (a country in Western Europe).
+Doisrikondre: Germany (a country in Central Europe).
+Doisritongo: The German language.
+Doysri: alternative form of Doisri (official spelling).
+Dyako: Diakonessenhuis, a hospital in Paramaribo.
+Dyu: Jew (adherent to Judaism; one who belongs to a Jewish (sub)culture).
+Dyu: Jewish.
+Ekwador: Ecuador (a country in South America).
+Fedi: Death, Grim Reaper (personification of death).
+Franskayana: French Guiana (an overseas department and administrative region of France in South America).
+Franskondre: France (a country in Western Europe and South America).
+Franssei: French Guiana (an overseas department and administrative region of France in South America).
+Franstongo: The French language.
+Gado: God.
+Gayana: Guyana (a country in South America).
+Groenkondre: superseded spelling of Grunkondre.
+Grunkondre: Greenland (a large self-governing dependent territory of Denmark and island in North America).
+Ingrissei: Guyana (a country in South America).
+Kayana: Cayenne (the capital city of French Guiana department). French Guiana. Guyana.
+Kofi: a male given name from Akan, feminine equivalent Afiba, given to someone born on a Friday.
+Kofidjompo: superseded spelling of Kofidyompo.
+Kofidyompo: Lelydorp (a village and capital of Wanica, Suriname).
+Kolombia: Colombia (a country in South America).
+Kresneti: Christmas Eve. Christmas.
+Krestes: Christ.
+Krowâsia: Croatia (a country on the Balkan Peninsula in Southeastern Europe).
+Kwaku: a male given name from Akan, feminine equivalent Akuba, given to a male born on a Wednesday.
+Kwami: a male given name from Akan, feminine equivalent Amba, given to a male born on a Saturday.
+Kwamina: a male given name from Akan, feminine equivalent Abeniba, given to a male born on a Tuesday.
+Kwasi: a male given name from Akan, feminine equivalent Kwasiba, given to a male born on a Sunday.
+Kwasiba: a female given name from Akan, masculine equivalent Kwasi, given to a female born on a Sunday.
+Loango: an ethnic identifier applied to some people of African descent in Suriname.
+Mama Sranan: A national personification of Suriname as a woman or a mother goddess.
+Manspasi Dey: nonstandard form of Manspasidei.
+Manspasidei: Surinamese Emancipation Day, a national holiday in Suriname observed annually on 1 July.
+Mason: Amazon.
+Masragado: Lord, God.
+Mi na afu sensi, no wan man e broko mi: Nobody can break my spirit; nobody gets me down.
+Nana: apheretic form of Anana (supreme being).
+Natio: the national soccer team of Suriname.
+Papa: an ethnic identifier applied to some people of African descent in Suriname.
+Paragwai: Paraguay (a country in South America).
+Paramaribo: Paramaribo (the capital city of Suriname). Paramaribo District (a district of Suriname).
+Pareisi: Paris (the capital and largest city of France).
+Porifoto: Rotterdam (a city and municipality of South Holland, Netherlands).
+Potogisikondre: Portugal.
+Potogisitongo: Portuguese (language).
+Republiek Sranan: Republic of Suriname (official name of Suriname: a country in South America).
+Santa Yeye: Holy Spirit, Holy Ghost.
+Sneisi: China (a country in eastern Asia).
+Sneisi: Chinese (a person from China or of Chinese heritage).
+Sneisi: Chinese (of, from, or pertaining to China, or the Chinese people).
+Sneisikondre: China (a country in East Asia).
+Sneisikondre: a settlement in Sipaliwini, Suriname.
+Sranan Tongo: alternative spelling of Sranantongo.
+Sranan: Suriname (a country in South America). Sranan Tongo, Sranan.
+Sranan: Surinamese. Sranan, pertaining to Sranan Tongo.
+Sranang: superseded spelling of Sranan.
+Srananman: Surinamese person.
+Sranantongo: Sranan Tongo.
+Srefidensi Dey: nonstandard form of Srefidensidei.
+Srefidensi: alternative letter-case form of srefidensi.
+Srefidensidei: Surinamese Independence Day, a national holiday in Suriname observed annually on 25 November.
+Swiska: Swiss (inhabitant of Switzerland).
+Venezuela: Venezuela (a country in South America).
+Wiwirikampufesa: Sukkot.
+Wrokomandei: "May Day, Labour Day (the first day of May, a worldwide workers holiday)".
+Yaba: a female given name from Akan, masculine equivalent Yaw, given to a female born on a Thursday.
+Yampaneisi: Javanese.
+Yampanesi: alternative form of Yampaneisi.
+Yaw: a male given name from Akan, feminine equivalent Yaba, given to a male born on a Thursday.
+a no babariman e broko pranasi: barking dogs seldom bite.
+a: at, to.
+a: he, she, it.
+a: he.
+a: the.
+a: to be (used with a noun phrase as complement).
+abani: alternative form of abanyi.
+abani: criminal, rogue. fugitive.
+abanyi: criminal, rogue. fugitive.
+abi: to have.
+abiti: live trap.
+abiti: live-trap.
+abo: millet.
+aboma: (n.) anaconda or other large constrictor.
+aboma: anaconda. Any of various other large constrictors, aboma.
+abongra: sesame seed.
+abra: (prep.) about.
+abra: over, across.
+abra: to cross (to go to the other side).
+abrasei fu: (ad.) across from.
+abrasei: the other side, the opposite side.
+abrawatra: overseas.
+abri: (n.) guard house. (int.) I beg your pardon?.
+abri: I beg your pardon?.
+abri: guardhouse.
+adi: ash of dried banana leaves, used to make lye.
+adi: corn, clavus (painful hardened area of skin on the feet).
+adi: dermatological corn, clavus. banana leaf ash used to make lye.
+adube: epilepsy. attack, convulsion, seizure. trance.
+adyanski-yagayaga: scarecrow.
+adyosi: goodbye.
+adyosi: goodbye; adieu.
+afadra: slob, frump.
+afdaki: shelter. hut, shack.
+afersi: issue, matter. subject, theme, topic.
+afitay: handsome.
+afito: constipation.
+afkati: avocado, butter pear.
+afkati: lawyer, barrister.
+afkati: lawyer, barrister. avocado, butter pear.
+afkodrey: idolatry. non-Christian religion.
+afo: (n.) ancestor.
+afo: ancestor. great-grandparent.
+afrontu: (v.) affront.
+afrontu: insult.
+afrontu: to insult.
+afu: (noun) half. (adjective) half. (verb) to halve.
+afu: half.
+afu: must, to have to (auxiliary verb).
+afu: to halve.
+afusensi: half cent (a coin worth half a cent).
+afusensi: half cent coin.
+afèn: OK (said in resignation).
+agama: any of several small iguana species.
+agama: any of several small iguana speices.
+agen: (ad.) again.
+agen: again.
+agersitori: parable, allegory, metaphor.
+agerstori: contraction of agersitori.
+agida: a conical bass drum two to three metres long and 40-50 centimetres in diameter, the sound of which resonates in the ground and is used in the Afro-Surinamese Winti religion to communicate with snake gods; it is played with both hands, with the player using a drumstick in one hand.
+agidya: Brazilian porcupine, Coendou prehensilis.
+agra: bullet. shot (metal balls used as ammunition).
+agrabu: influenza.
+agri: (v.) agree.
+agri: agreement, contract.
+agri: to agree.
+agu: pig, hog.
+aguma: Solanum americanum, the leaves of which are eaten as a vegetable.
+agumawiwiri: synonym of aguma.
+agumeti: pork.
+aguti: (n.) agouti.
+aguti: agouti.
+ai: eye.
+ai: yes.
+aibuba: eyelid.
+aifutu: (n.) ankle.
+aiti: eight.
+aititenti
+aititenti-na-seibi
+aititenti-na-tu
+aiw'wiri
+aiwiwiri: eyelash.
+aiwwiri: alternative spelling of aiwiwiri.
+aj: eye.
+aka: hook.
+aka: medium to large bird of prey; hawk, eagle, etc.
+akama-yaw: alternative letter-case form of Akama-yaw (Death).
+akansa: a firm porridge or pudding made of maize.
+akanswari: glutton. cutter suction dredger.
+akata: cotton headpad for carrying loads.
+akra: alternative form of kra.
+akruderi: (n.) agreement.
+aksi-aksi: (v.) ask around.
+aksi: (n.) axe.
+aksi: (vt.) ask.
+aksi: axe.
+aksi: question. request.
+aksi: to ask.
+akubagengen: chamber pot.
+ala piri tifi a no lafu: appearances are deceptive, all that glitters is not gold.
+ala ten: (ad.) always.
+ala yuru: (ad.) all the time.
+ala: (num.)
+ala: all.
+ala: every; all.
+ala: everything.
+aladi: (conj.) although.
+alakondre: (ad.) assorted.
+alamala: (prn.)
+alamala: everything. everyone.
+alanya: bitter orange (Citrus aurantium). sweet orange (Citrus sinensis).
+alanya: orange (color).
+alape: everywhere.
+alasani: everything.
+alasma: everyone.
+alasortu: all kinds of.
+alata: rat.
+alaten: always. continuously.
+alatu: both.
+alen: rain.
+alenbo: rainbow.
+alenten: rainy season.
+alenwatra: rain water.
+alesi: rice, food.
+alobi: loved. beloved.
+altari: (n.) altar.
+altari: altar.
+amaka: hammock.
+amandra: (n.) almond, sea.
+amandra: (n.) almond.
+ambeiri: axe, hatchet.
+ambesi: anvil.
+ambeyri: alternative spelling of ambeiri.
+ambisi: ambition.
+amerkan: (adj.) American.
+amerkan: (n.)
+ameti: smoked ham.
+amra: hammer.
+amrabasi: chairman, chairperson.
+anansi: spider. pins and needles, state of being asleep (said of limbs).
+anansititei: spiderweb, cobweb.
+anbegi: (vt.) adore.
+anbegi: To worship. To adore.
+aneisiwiwiri: Piper arboreum. Piper divaricatum. Piper hispidum. Piper marginatum.
+anga: to hang.
+angisa: a headkerchief traditionally worn by Afro-Surinamese women; the way it is tied can convey specific messages or proverbs.
+angri: eager, desirous.
+angri: hunger. desire, craving.
+angri: to be hungry. to desire, to crave.
+angribere: empty stomach.
+angribere: hungry.
+angu: angu (firm porridge or cake made of maize flour).
+ankra: (n.) anchor.
+ankra: (v.) to anchor.
+ankra: anchor.
+ankra: to anchor. to found. to settle, to stay. to settle in.
+antruwa: African eggplant, Solanum macrocarpon.
+anu: (n.) arm.
+anu: hand, arm.
+anu: hand.
+anu: hand. arm. handful. money that is paid out to the participants of a kasmoni.
+aparti
+apinti: a conical drum with a single drumhead which is tightened by pins stuck into the body of the drum; it is the main drum used for religious purposes in the Afro-Surinamese Winti belief system.
+apra: (n.) apple, Curaçao.
+apra: (n.) apple, Java.
+apra: (n.) apple, star.
+apra: apple.
+aprabon: (n.) apple tree.
+apresina: orange (fruit).
+apteiki: pharmacy, drugstore.
+apuku: forest spirit.
+arki: to listen. to obey.
+arkiman: listener.
+asaw: elephant.
+asege: beetle.
+asema: A vampire who has the appearance of an elderly person during the day and hides his or her skin at night when out for blood.
+asi: ace (playing card marked with "A", having one icon).
+asi: horse. someone who is possessed by a winti (spiritual entity).
+asin: vinegar.
+asisi: (n.) ash.
+asisi: ash.
+asisi: ashes.
+ati bron: (idiom.) angry, be.
+ati de na dyompo: (idiom.)
+ati: (noun) heart. nerve, courage. (verb) to hurt. (noun) hat.
+ati: hat.
+ati: heart (muscular organ). heart, nerve, courage (emotional strength).
+ati: to hurt.
+atibron: (n.) anger.
+awari: opossum.
+awege: male homosexual, effeminate man.
+awinsi
+awinsi fa
+awo: great-grandparent, ancestor, forebear.
+ay: alternative spelling of ai.
+ayti: alternative spelling of aiti.
+ayun: onion.
+aywiwiri: alternative spelling of aiwiwiri.
+babun: Colombian red howler or Venezuelan red howler (Alouatta seniculus). a man of Hindustani descent.
+bada: (v.) annoyed.
+bagasi: luggage. stuff, personal effects.
+bai: to buy.
+baiman: buyer.
+baisigri: bicycle.
+baka agen: (ad.) again, yet.
+baka di: (conj.) after.
+baka-iri
+baka: (ad.) anew.
+baka: (prep.)
+baka: after. behind.
+baka: back, in return. again.
+baka: back.
+baka: to bake, to fry.
+bakabaka: (adv.) afterwards.
+bakabaka: afterwards.
+bakabaka: underhanded, sneaky, secretive.
+bakabana: fried plantain. banana fritter.
+bakabonyo: backbone, spine.
+bakabreki: (ad.) afternoon.
+bakad'na
+bakadina: battered fried plantains.
+bakadna: contraction of bakadina.
+bakafoetoe: back of foot, heel.
+bakafutu: back of foot, heel.
+bakafutu: heel (The rear part of the foot, where it joins the leg).
+bakaman: (n.) advisor.
+bakaman: (n.) assistant.
+bakana: contraction of bakadina.
+bakapikin
+bakasey: ass. behind.
+bakaten
+bakawan: rear, last one.
+bakba: banana (Musa sapentium).
+baki: container, tray, tub.
+bakkra: superseded spelling of bakra.
+bakra: (n.) authority.
+bakra: alternative letter-case form of Bakra (Dutch person).
+bakra: relating to a white person. alternative letter-case form of Bakra (Dutch).
+bakra: white person. high-ranking official or civil servant.
+bakru: an evil forest spirit represented as a ghost-like little man with a big head.
+bakruwiwiri: Aphelandra scabra. Justicia calycina.
+baksis: extra amount (as a gift in addition to an amount bought). discount, rebate.
+balata: balata (Manilkara bidentata). latex, rubber (material). waistbelt. bullwhip, rubber baton.
+balata: to bullwhip.
+bambusi: bamboo.
+bana: plantain (cooking banana). penis.
+bangi: bank (financial institution). stool, bench. sandbank.
+banku: fifty in any currency; (Netherlands) fifty euro.
+banti: tire (around a wheel). wheel. tape. belt, strap.
+banti: to tie, to fasten. to be too tight, to pinch.
+barba: beard.
+bari boskopu
+bari wroko: (n.) announce.
+bari: (v.) shout, cry out, bellow, yell.
+barki: 100 in any currency; 100 Dutch guilders; 100 Surinamese guilders; 100 Surinamese dollars.
+barki: beam, rafter, bolt.
+barki: boat, barque.
+barki: conspiracy, plot, agreement, scheme.
+baruba: archaic form of barba.
+basi: bark (of a tree), shell (of a nut or coconut).
+basi: bark (of a tree).
+basi: boss.
+basi: to be in charge of something.
+basja: superseded spelling of basya.
+baskita
+basya: Maroon or Amerindian assistant village chief; the lowest tier in the hierarchy of tribal authority. enslaved person charged with overseeing work at a plantation and administering corporal punishment.
+batembal: A simplified form of cricket.
+bato, mi ben drape: A formulaic phrase used by a member of the audience to interrupt a storyteller, in order to sing a song related to the story, after which the storyteller resumes his tale.
+batra: bottle, jar (it can be made of glass, earthenware or plastic).
+batyaw: salt cod.
+baysigri: alternative spelling of baisigri.
+bebe: any tree of the genus Pterocarpus.
+bedi: bed.
+bedrigi
+begi: prayer.
+begi: to beg. to pray.
+begiman: beggar.
+beifi-ati: (adj.) anxious.
+beiri: axe.
+beki: washtub. salad bowl.
+bemui
+ben: (aux.v.) ANT.
+ben: Verbal marker for the past tense.
+beni: bend.
+beni: bent, crooked, curved (not straight).
+beni: to bend. to make a turn (change direction).
+bere: belly, stomach. womb. pregnancy, the state of being pregnant.
+bere: belly.
+berebanti: (n.) abdominal support belt.
+berebanti: abdominal support belt.
+bereketi: (n.) amulet.
+bereman: pregnant woman.
+bergi: hill, mountain.
+bergi: mountain.
+beri: burial, funeral.
+beri: to bury.
+berpe: graveyard.
+besroiti
+beti: bite.
+beti: bite. bait.
+beti: to bite.
+betre: better.
+betre: rather, preferentially.
+betre: to heal, to get well.
+beweigi
+bifo: before (earlier than).
+bifo: before.
+bigi-ay: greediness.
+bigi: (ad.) adult.
+bigi: big.
+bigifasi: (n.) arrogance.
+bigiman: (n.) adult man.
+bigiman: adult.
+bigimemre: (adj.) arrogant.
+bigin: beginning, start.
+bigin: to begin, start.
+bigisensi: a coin worth two and a half cents, a tickey.
+bigisma: (n.) ancestors.
+bigisma: adult. parent. elderly, wise person; old man or old woman.
+bigiwan
+bika: because.
+bikasi: because of.
+bikasi: because.
+bilongo: amulet.
+bimba: elephantiasis.
+biri: beer.
+birti: (n.) area.
+bita: (n.) alcoholic beverage.
+bita: a type of strong liquor.
+bita: bile.
+bita: bitter.
+bitawiwiri: Cestrum latifolium, the young leaves of which are eaten as a vegetable.
+blaka: black.
+blaka: blacken. defame, rat on.
+blakawiwiri: Venezuelan pokeweed, Phytolacca rivinoides.
+blaw: blue.
+blesi: blessed. blissful.
+blesi: blessing.
+blesi: to bless.
+bo: Marker for the irrealis mood.
+bo: bow, arch.
+bobi: breast, teat, udder (organ containing mammary glands).
+bobi: breast.
+bobi: suckle, nurse.
+bobimofo: nipple. pacifier.
+bobiwatra: breast milk.
+bobo: dolt, dweeb, wimp.
+bobo: doltish, sluggish.
+bobo: to behave like a dolt.
+boda: wedding. party.
+boegroe: superseded spelling of bugru.
+boen
+boesimeti
+bogobogo: (adj.) in abundance.
+bogobogo: abundance.
+bogobogo: abundant. chubby.
+bogobogo: abundantly.
+boi: boy. son. thing (compare similar use of English guy).
+boiti: country, countryside.
+boiti: except (for). besides.
+boketi: bouquet (of flowers).
+bokoboko: billy goat, he-goat, buck (male Capra hircus).
+boktu: bend.
+boktuboktu
+bokun: smoked herring.
+bombo: to copulate, to mate.
+bombo: vagina.
+bon: tree.
+bonboni: Brazilian squirrel, Guianan squirrel (Sciurus aestuans).
+bonbuba: tree bark.
+bonjo: bone.
+bonk: to throw.
+bonki: bean.
+bonkoro: A black person with a (relatively) light skin. albino.
+bonu: ritual magic, used by a bonuman (medicine man). idolatry.
+bonu: to practice winti.
+bonuman: healer. priest.
+bonyo: bone.
+borgu: citizen.
+borgu: to buy/sell (on credit).
+bori: to cook. to boil.
+boriman: boiler (an enslaved person in charge of boiling down sugarcane juice on sugar plantations). cook.
+boro: drill (instrument). bore. hole, leak.
+boro: having holes, leaky. uninvited.
+boro: to bore. to cut in line. to intrude (on a party) uninvited.
+borsu: chest, breast, bosom (region of the mammalian body between the neck and abdomen as well as the cavity containing the heart and lungs).
+boru: bread roll, bun.
+boru: bulging.
+bosi: kiss.
+bosi: to kiss.
+boskopu: (n.) announcement.
+boskopu: message, report, announcement. errand.
+bosu: bundle, bunch. group, herd, flock, swarm, school. group, bunch.
+bosu: to group.
+boto: boat.
+botri: kitchen.
+botro: butter, margarine.
+bow: to build. to trust, to depend on.
+bowtu: (vt.) arrest.
+bowtu: bolt. thigh.
+boy: alternative form of boi (official spelling).
+boyo: a sweet cake made of grated cassava (manioc) and cocos.
+brada: brother.
+bradi: broad, wide.
+bradi: to broaden, to widen. to be wide or broad.
+bradi: wide.
+bradi: width.
+bradyari: loud, noisy.
+brai: to roast.
+brantimaka
+brantmiri: fireplace.
+brasa: embrace, hug, cuddle.
+brasa: to embrace, to hug, to cuddle.
+brede: bread.
+brei: to knit. to braid. to weave.
+breiti: happy, glad.
+breiti: joy, happiness.
+breiti: to rejoice, to be glad.
+brekten
+brenisma
+bri: contraction of bribi.
+bribi: belief, faith.
+bribi: to believe.
+brifi: letter (written message), mail.
+brifiman: mailman, postman.
+bro: To blow, to produce air currents. To breathe.
+bro: blow.
+bro: breath.
+bro: to blow.
+bro: to breathe.
+broin: brown.
+broki: bridge (structure). dock (a structure attached to shore for loading and unloading vessels).
+broko: (adjective) broken. (transitive, intransitive) to break,  break down.
+broko: broken.
+broko: to break, break down.
+brokodei: (n.) all-night activity.
+brokosaka: (ad.) ashamed.
+bromki: flower.
+bron: (transitive, intransitive) to burn. (intransitive) to not keep one's word.
+bron: to burn.
+bron: to burn. to burn. "to not keep ones word".
+bronbron: burned.
+bronflaka: scar from a burn.
+bronsoro: a burn.
+brudu: blood.
+brudu: blood. blood pressure.
+brudu: to bleed.
+brudutitei: (n.) artery.
+bruduwiwiri: Justicia calycina.
+bruku: pair of trousers, pair of pants.
+bruya: confused, in disarray, disordered.
+bruya: confusion, disarray, disorder.
+bruya: to confuse, to upset, to confound.
+brèms: To bump into. To meet.
+buba: bark (of a tree).
+buba: bark.
+buba: skin.
+buba: skin. skin colour, race. fur, fleece. peel. shell, husk, crust, bark. sapwood. sheath.
+bubu: bogeyman, bugbear, monster.
+bugru: bullet. a large metal ball. a bead inserted permanently under the skin of the penis, supposedly in order to increase pleasure during vaginal or anal intercourse.
+bui: bracelet. fetter, bond.
+buku: book.
+buku: fungus, mould.
+buler: male homosexual.
+bulu: bull.
+bun furu: (ad.) abundant.
+bun-ati
+bun-ay: eye of luck.
+bun-ede: luck.
+bun: good.
+bun: very, rather.
+bunkopu: cheap, inexpensive.
+buriki: donkey, ass.
+buru: farmer. A white Surinamese person of Dutch descent, in particular a descendant of nineteenth-century agricultural settlers.
+bus'meti: (n.) animal, wild.
+busi: forest, woods, jungle.
+busi: forest.
+busismeriwiwiri: Miconia lateriflora (a species of Miconia).
+busititei: liana.
+butabuta: potoo (any bird of the family Nyctibiidae). nightjar (any bird of the family Caprimulgidae).
+butu: fine, punishment.
+butu: to pay by way of punishment. to fine.
+bwasi: lepromatous leprosy.
+bwasi: leprous.
+bèl: to make a telephone call.
+da
+dada: Form of address for an aunt.
+dagoeblat: superseded spelling of dagublat.
+dagu: dog.
+dagublad: alternative spelling of dagublat.
+dagublat: water spinach, Ipomoea aquatica.
+daguloso: tick.
+daguwe: synonym of daguwesneki (boa constrictor).
+daguwesneki: boa constrictor.
+dagwe: contraction of daguwe.
+dagwesneki: contraction of daguwesneki.
+daki: roof.
+dala: dollar. a coin or banknote worth 250 cents; a rix-dollar.
+dalèk: right away, at once. soon, any minute.
+dampoe
+dampu: fog.
+dampu: vapor, fog. bad smell.
+dampu: vaporous.
+dan
+dandan: A bat, a club.
+danki: thanks, thank you.
+dansi: dance. dance party.
+dansi: to dance.
+dansie: superseded spelling of dansi.
+dansiman: dancer.
+dape: alternative form of drape.
+dat'
+dat'ede
+datede
+dati: that, those (postpositive).
+dati: that.
+datra: medical doctor.
+de ini srudati: (idiom.) army, be in the.
+de na ai: (idiom.) alert, be.
+de na ai: (idiom.) awake, be.
+de: alternative form of e.
+de: to be.
+dede: dead.
+dede: death.
+dede: die.
+dede: dull (as a knife).
+dede: to die.
+dedekisi: coffin; casket.
+dedeskin: corpse, cadaver, dead body.
+dedesma: dead person.
+dedesribi: very deep sleep.
+dedestrafu: death penalty.
+dedewagi: hearse; carriage or vehicle for transporting a dead person.
+dedewan: a dead person.
+degedege: to waver, to wobble. to falter.
+degedege: unstable, shaky. rickety.
+dei: day.
+deibrede
+deigri
+deinen: day name (ritual name of Ashanti origin, given to a child born on a given day of the week; e.g., Kwaku for a boy born on a Wednesday).
+deiten: during daytime.
+dej: day.
+dekati: daring.
+deki: fat, obese, thick.
+deki: thick.
+dekta: detective. secret police.
+demokrasia: alternative spelling of demokrâsia.
+demokrâsia: democracy.
+demokrâsia: democratic.
+den: the (plural definite article).
+den: their (possessive pronoun).
+den: they.
+den: they. them.
+denki: think.
+denki: to think.
+densrefi
+desko: discrimination.
+desko: to discriminate.
+dey: alternative spelling of dei.
+di
+di psa: (ad.) ago.
+dia: deer.
+diakrarun: Centropogon cornutus.
+diameti: venison.
+dibakadina: (ad.) afternoon, this.
+didibri-apra: Indian mulberry, Morinda citrifolia.
+didibri: devil.
+didibrikondre: hell.
+didon: lie.
+didon: to lie (as in a bed).
+didon: to lie, to lie down.
+difrenti: different.
+diki: dig.
+diki: to dig.
+dinari: church servant. corpse washer.
+dipi bere: mysterious.
+dipi: deep.
+dipi: to dip.
+diri: (adv.) a lot.
+disi: this, these (postpositive).
+disi: this.
+distrikti: district.
+ditibri: alternative form of dritibri.
+ditibriwiwiri: Peperomia rotundifolia.
+dja: here.
+djari
+djodjo: superseded spelling of dyodyo.
+djonko: superseded spelling of dyonko.
+djuku: pierce.
+dobru: double.
+doe
+doengroe
+dofu: a deaf person.
+dofu: deaf.
+doi: thumb.
+doifi: pigeon, dove.
+doifiwiwiri: little ironweed, Cyanthillium cinereum.
+doksi: duck.
+dokun: The Afro-Surinamese version of duckanoo; a sweet treat made of grated cassava (manioc) and cocos, wrapped in a banana leaf and then steamed.
+dokunu: obsolete form of dokun.
+don: stupid.
+don: stupidity.
+dondru: thunder.
+dondru: to thunder.
+dondruston
+dopu: baptism.
+dopu: to baptise. to dip.
+doro: (ad.) again and again.
+doro: (vi.) arrive.
+doro: continually, on and on, again and again.
+doro: door. the outside.
+doro: through.
+doro: to arrive. to come, to dawn (of time). to find out, to arrive at a conclusion. to sieve.
+dorodoro: again and again, incessantly.
+dorodoro: sieve.
+dorosei: (n.) abroad.
+dorpu: village.
+dosi: cassava bread with a sweet cocos filling.
+dosu: box.
+doti: dirty.
+doti: earth, soil, ground. native soil. dirt, rubbish.
+doti: earth.
+dow: dew.
+dragi: bier.
+dragiman: pallbearer.
+drai: to turn (intransitive).
+drai: to turn.
+drai: turn. bend.
+drape: there.
+dray: alternative spelling of drai.
+draydray: To hesitate.
+drei: dry.
+dreineki
+dreipresi
+dreisabana: desert.
+dreiten: dry season.
+dreiwatra: thirst.
+drej: dry.
+dren: dream.
+dren: imaginary.
+dren: to dream. to imagine.
+dresi: Medicine, cure. Insecticide, rodenticide.
+dresi: To dress or treat a wound, or wounded person; to heal.
+dri: three.
+dribi: to float.
+dridewroko: Wednesday.
+dringi: drink.
+dringi: to drink.
+drisren: quarter (a coin worth 25 cents).
+dritenti
+dritenti-na-aiti
+dritibri: The amount of money equal to three pre-decimal stivers or a half shilling. The amount of money equal to 4 decimal cents.
+dritibriwiwiri: alternative form of ditibriwiwiri.
+droifi: grape.
+droifibon: grapevine.
+droifidyari: vineyard.
+dron: drum.
+dropu: (v.) apply drops.
+dropu: drop, droplet.
+dropu: to drip.
+drungu: drunk, inebriated.
+drunguman: drunkard.
+du: (vt.) act.
+du: a festival of song and dance organised and performed by and for enslaved people.
+du: deed, action.
+du: to do.
+dukrun: to dive.
+duku: cloth. money.
+duman: doer. winti priest.
+dun: Signifies astonishment, bewilderment, stupefaction.
+dundun: bewildered, stupified, unresponsive.
+dungru: dark.
+dungru: darkness.
+dusun: thousand.
+duwatra: lake.
+dya: here (in, on, or at this place). here, hither (to this place).
+dya: here.
+dyaranti: To guarantee.
+dyaranti: guarantee.
+dyari: garden, yard.
+dyariman: gardener.
+dyarusu: jealousy.
+dyaso: here, right here (in, on, or at this place). here, hither (to this place).
+dyatawiwiri: Borreria prostrata.
+dyendyen: alternative spelling of gengen.
+dyinipi: guinea pig.
+dyodyo: soul, guardian spirit; in the Afro-Surinamese Winti belief system, a male or female spiritual entity linked to the birthplace of an individual who, together with a counterpart of the opposite sex, acts as guardian of this or several individuals.
+dyogo: A jug. A beer bottle with a volume of one litre.
+dyompo: to jump.
+dyonko: a joint, a marijuana cigarette.
+dyonko: to slumber, to doze off, to nod off, to drowse.
+dyonku: hip (The outward-projecting parts of the pelvis and top of the femur and the overlying tissue).
+dyu: alternative letter-case form of Dyu.
+dyugudyugu: (adj.) overly active.
+dyugudyugu: To be restless or troublesome. To cause an uproar, commotion or unrest.
+dyugudyugu: Uproar, unrest, turmoil, commotion, crowdedness.
+dyugudyugu: Uproarious, restless, troublesome, crowded.
+dyukerki: synagogue.
+dyuku: stab, stabbing.
+dyuku: to stab, to pierce. to cut something off. to do something forcefully. to fuck, to have sex. to be well dressed.
+dyuku: to stab.
+dyumbi: ghost, spirit, spectre.
+dyundyu-uba: Cupania scrobiculata.
+e: verbal marker for continuous aspect.
+ebi: heavy.
+ede-ati: headache.
+ede-atiwiwiri: crown flower, Calotropis gigantea.
+ede: (n.) account.
+ede: head.
+edekrabasi: skull.
+edeman: leader.
+eden
+efi: alternative form of efu.
+efi: if.
+efu: if, whether. if, when.
+efu: if.
+eigi: own.
+eilanti: island.
+eisi: ice.
+eisi: to freeze.
+eksempre: example.
+eksi: egg.
+embre
+empi: shirt.
+en: (conj.) and.
+en: Third-person singular object pronoun; him, her, it. Contrastive variant of a; he, she, it.
+en: Third-person singular possessive determiner/pronoun; his, her, its.
+en: and.
+en: he, she, it.
+engel
+enki: ink.
+enkri
+ensrefi
+eresi: soon. quick.
+erfu: eleven.
+eri: whole.
+eru: alas, woe.
+esde: yesterday.
+esi: fast, quick.
+esi: fast, soon.
+esrede: alternative form of esde.
+ete
+ete wan ingiwiwiri: "by a hairs breadth, in the nick of time".
+ete wan leisi
+eva
+f'siti
+fa a e go: how are you?.
+fa a no fa
+fa a waka: how are you?.
+fa fu yu: how are you?.
+fa yu de: how are you?.
+fa yu tan: how are you?.
+fa: "hi; how are you?; hows it going?".
+fa: (ad.) as soon as.
+fa: as soon as.
+fa: how.
+fa: what.
+fadon: (intransitive) to fall, to fall down.
+fadon: to fall, to fall down.
+fadon: to fall.
+faja: fire, hot.
+faka: pronunciation spelling of fa a waka.
+faki: compartment, cell of a grid, box (e.g. a tick box).
+fala: to ebb.
+fala: to fell.
+fals: to be angry.
+fals: vicious. angry.
+famiri: family.
+famirman: family member.
+fan: Signifies whiteness.
+fanga: catch.
+fanga: to catch.
+fanowdu: necessary.
+fanowdu: necessity.
+fara: far.
+farawe: far.
+farlek: alternative spelling of kfâlek.
+fasi: (vt.) affix.
+fasi: To be stuck. To become pregnant.
+fasi: To fasten. To grasp. To touch, to be touched. To consume.
+fasi: hold.
+fasi: method, manner (of doing something), way (of doing something). manners.
+fasi: stuck.
+fasti: stuck, tight, secured. fixed, unwavering.
+fatu: a joke.
+fatu: fat (lipid matter).
+fatu: fat (noun).
+fatu: fat, obese.
+fatu: fat.
+fawaka: pronunciation spelling of fa a waka.
+faya watra: a vaginal steam bath.
+faya: fire.
+faya: hot.
+fayafaya: eagerly, fiercely, violently.
+fayafaya: fervent, zealous, fanatical.
+fayaworon: firefly.
+feifi-olowiwiri: Monstera adansonii.
+feifi: five.
+feifitenti
+fejanti
+fejfi: five.
+felem: movie, motion picture. video, video clip.
+feni: to find (to come across, possibly by searching). to encounter. to consider, to judge.
+fensre: window.
+fer-: Occurs in terms derived from Dutch.
+ferbontu
+ferdwal: "to lose ones way, to get lost".
+ferferi: (adj.)
+ferferi: (v.) annoy.
+ferferi: to bore, to annoy, to tease. to get bored.
+ferfi: painting.
+ferfi: to paint.
+ferfiman: painter.
+feri: To tease.
+ferleigi
+ferlusu
+ferstan: to understand.
+ferteri
+fertrow: to trust.
+ferwondru: (adj.) amazing.
+ferwondru: (v.) amaze.
+ferwondru: (v.) astonish.
+feryari: To have your birthday.
+fesa: party.
+fesi
+fesiman
+feskoki: (n.) apron.
+feti-obia
+feti: fight, strife.
+feti: to fight, combat, bicker.
+feti: to fight.
+fetre: shoelace, bootlace.
+feyanti
+feyfi: alternative spelling of feifi.
+fiadu: a sweet fluffy cake filled with rum-soaked raisins, almonds and succade.
+figa: fig (fruit of the fig tree).
+figa: fig.
+figabon
+figi: to sweep, to brush. to wipe.
+finga: finger. toe.
+fini: fine.
+fini: thin.
+firei
+firi: feeling.
+firi: to feel.
+fisi: fish.
+fisi: to fish.
+fisiman: (n.) anhinga.
+fisiman: fisherman.
+fisiti: guest. friend.
+fiskari: prosecutor.
+fiti: fitting, appropriate.
+fiti: to fit (to have the right size and shape). to try for size.
+flaka: stain.
+flaka: to stain, to soil.
+flamingo: scarlet ibis, Eudocimus ruber.
+flaw: To faint.
+flet: liquid insecticide. spray gun.
+flet: to spray.
+flikmasyin: airplane.
+floekoe
+fluku: curse.
+fluku: to curse.
+fo: four.
+fodewroko: Thursday.
+fodu: rag, tatters.
+fodu: snake deity. magic, sorcery.
+foe
+foeroe
+foetroe
+fokofoko: light, lightweight.
+fokofoko: lung.
+fom: hit.
+fomeri: to vomit.
+fon: to beat, to thrash, to pummel. to mash, to puree.
+fonsu: fund.
+forku: fork.
+foroisi: living room, salon.
+fosi: before.
+fosi: first.
+fosiwan: the first one.
+fotenti
+fotenti-na-siksi
+foto: city, town. synonym of benfoto (fort, fortress).
+foto: synonym of Paramaribo (the capital city of Suriname).
+fotoman: townsperson.
+fow: bent, crooked.
+fow: fold.
+fow: to fold.
+fowroe
+fowru: bird.
+fowru: bird. chicken, fowl.
+fowruloso: shaft louse, Menopon gallinae. chicken body louse, Menacanthus stramineus.
+fowrulosowiwiri: Cordia schomburgkii. Herrania kanukuensis.
+fowrumeti: poultry meat.
+fowruwiwiri: feather.
+fowtow: photo.
+fowtu: mistake.
+fowtu: wrong.
+fraga: flag.
+frak: (a) lot.
+fraka: alternative form of flaka.
+frambo: torch.
+fransmanmope: mountain plum, sea lemon, yellow plum, seaside plum, tallowwood (Ximenia americana).
+frede: (vi.) be afraid.
+frede: (vt.) make afraid.
+frede: afraid. fearsome, terrifying. ugly.
+frede: fear.
+frede: fear. afraid. fearsome, terrifying. ugly.
+frede: to fear.
+frede: to fear. to frighten.
+frei: fly.
+frei: to fly.
+frei: wing.
+freida: Friday.
+freigron: (n.) airstrip.
+frej: fly, wing.
+frekti
+freyri: To flirt.
+fri: free.
+fri: freedom.
+fri: to set free.
+frifri: rub.
+frigi: kite (wind-borne toy or device).
+fringi: throw.
+fristiri: To congratulate.
+froisi: To move house.
+froisi: relocation, change of residence.
+froiti: To whistle.
+froiti: flute.
+froktoe
+froktoebon
+froktu: fruit.
+froktubon
+frow: wife.
+frow: woman. wife.
+froyti: alternative spelling of froiti.
+fru: Only used in the adverbial phrase wan fru wan (one by one).
+frudu
+fruku: alternative form of fluku.
+fruku: early.
+frustu: rusty, rusted.
+fsiti: alternative form of fisiti.
+fu naki dagu: (idiom.)
+fu soso: for free.
+fu: of, belonging to. from. about. for. in order to.
+fu: to (used for marking the following verb as an infinitive).
+fufuru: to steal.
+fuga: disgusting.
+fuga: to be annoyed, to be fed up.
+fugufugu: loose, shifting (of sand). woolly. hairy (of animals).
+fula: to spray water from the mouth.
+furu: full.
+furu: many, full.
+furu: many.
+futu: foot.
+futu: foot. leg. hoof, paw.
+futu: leg.
+g'go
+gado: god, deity.
+gadofowru: house wren, Troglodytes aedon.
+gadri
+gagu: to stutter.
+gandya: hashish.
+gangan: old woman, granny.
+gangan: old-fashioned.
+gansi: goose.
+garden: window blind. awning (shelter from sunlight).
+gari: jaundice.
+gari: well-cooked and ready to eat (of food).
+gaw: quick, fast.
+gawgaw: very quick, very fast.
+ge: to belch, to burp.
+gebore: to be born.
+gengen: bell. telephone.
+geri: yellow.
+gersi: image, likeness.
+gersi: to resemble. to seem, to appear. to fantasize.
+gerstori: contraction of agersitori.
+gesontu: health.
+gesontu: healthy.
+gespi: buckle.
+gevaarlijk: alternative form of kfâlek.
+ggo: contraction of gogo.
+gi frantwortu: (v.) account for.
+gi rai: (v.) advise.
+gi: give.
+gi: to (indicates indirect object).
+gi: to give.
+gitara: guitar.
+glori
+go na fesi: (idiom.) advance.
+go: to go.
+gobi: a small calabash for drinking.
+gobogobo: Bambara groundnut (the edible seed of an African plant related to beans, Vigna subterranea, which produces its seeds underground, like peanuts.).
+gobogobowiwiri: Jacaranda obtusifolia subsp. rhombifolia.
+godo: hollowed gourd, used as a container. "wasps nest".
+gofer-udu
+gogo-olo: (n.) arse.
+gogo: ass, buttocks. anus.
+golu: The Surinamese dollar. The Surinamese guilder (currency unit, abolished in 2004). The Dutch guilder (currency unit, abolished in 2002).
+goma: starch (laundry stiffener).
+gomawiwiri: Venezuelan pokeweed, Phytolacca rivinoides.
+gon: gun.
+gongosa: gossip, gossiping. slander. duplicity, scheming.
+gongosa: to gossip. to slander. to dissemble, to deceive, to be duplicitous. to snitch, to betray.
+gorogoro: gullet, throat. larynx.
+gorogoro: to gargle.
+gotro: ditch. gutter.
+gowe: dated form of gwe.
+gowtu: gold.
+gowtu: golden, gold.
+gowtusmeti: goldsmith.
+grabu: To seize.
+grani: elderly. distinguished, respectable.
+grani: honour, privilege. award, medal.
+granmama: grandmother. the oldest enslaved woman in a household or on a plantation.
+granman-kapasi: (n.) armadillo, giant.
+granman: paramount chief of a Maroon or Amerindian tribe. governor.
+granpa: grandfather.
+grasbarki: dragonfly.
+grasi: grass.
+grasi: grass. glass.
+grati: smooth.
+grati: smooth. slippery.
+grati: to smoothen. to iron. to slip (to slide unintentionally on a slippery surface). to slip away. to get lost.
+grebi: grave.
+grefi: stylus.
+greni: door bolt.
+gridi: greedy.
+gridiman: A person who is greedy.
+griti: to grate. to rub. to scrape, to sand. to have sex.
+gro: To grow.
+groen
+groentoe
+grofu: rough, rugged. rude.
+gron: earth, soil. field, plot. vegetable garden, allotment. a provision ground, a plot of land allocated to enslaved people for subsistence agriculture.
+gron: earth.
+grontapoe: superseded spelling of grontapu.
+grontapu: the Earth, the world.
+groto: pearl barley.
+gruba: hasty. sloppy.
+gruma: to scrub.
+grun: green.
+grupu: group.
+gunya: to hesitate.
+gwe: (v.) away.
+gwe: to go away, to leave. to disappear.
+gwenti: (vi.) accustomed, to be.
+gwenti: custom, practice.
+gwenti: to be used to, to be accustomed to.
+hari taki: (idiom.) argue.
+hari: pull, jerk.
+hari: slim.
+hari: to pull, to jerk. to pull up. to pull out. to elongate, to enlarge. to depart.
+hari: to pull.
+hars
+hasi: archaic form of asi.
+hati
+hayra: A person who is greedy.
+hebi: burden, difficulty.
+hebi: heavy.
+hebi: to burden, to overwhelm.
+hebi: vehemently, strongly.
+hede: archaic form of ede.
+hei brudu: hypertension, high blood pressure.
+hei: high.
+hei: paca.
+heihei: very high, very tall. important, weighty.
+heiman: very important person, big shot.
+heimel
+helpi: (v.) assist.
+helu: archaic form of eru.
+hemel
+heri: (adj.) all.
+heri: complete, full, whole.
+heri: very.
+hilahila: very much, very many, abundant.
+hipsi: big and tall, sturdy.
+historia: historic.
+historia: history.
+hoho: archaic form of o-o (twin).
+hoigri: hypocrisy.
+hoigri: to be hypocritical.
+hoigriman: hypocrite.
+holo: archaic form of olo.
+hondro
+hori: to hold. to hold onto, to retain, to catch. (ambitransitive) to keep in a particular state.
+hori: to hold. to hold onto, to retain, to catch. to keep (in a particular state).
+hoso: archaic form of oso (house).
+howpu: hope.
+howpu: to hope.
+huru: to have sexual relations with more than one person.
+huru: whore, prostitute.
+i: you (singular).
+ia: obsolete form of dya.
+ibri: every, each.
+ingi: (ad.) Amerindian.
+ingi: (n.) Amerindian
+ingibarki: Tree of the species Licania heteromorpha.
+ingikondre: (n.) Amerindian settlement.
+ingitongo: (n.) Amerindian language.
+ingiwiwiri: Nepsera aquatica.
+ingiwiwiri: very fine strand of hair. a fleeting instant.
+ini: in.
+ini: inside.
+inisei
+iniwan sma: (n.) anyone.
+iniwan: (pn.) any one.
+interseri: to interest, to be of interest to.
+ipi-ipi
+ipi: a lot of.
+ipi: pile, heap.
+iri: heel.
+isri: iron.
+isrifowru: (n.) airplane.
+isriwiwiri: Pityrogramma calomelanos. Philodendron dioscoreoides. Philodendron scandens. blue porterweed, Stachytarpheta jamaicensis.
+iti: throw.
+iti: to hit.
+iti: to throw.
+iya: yes.
+jagi
+jari: year.
+jeje
+jere
+jesi: ear.
+joe: superseded spelling of yu.
+ju ~ i: you.
+k'ka-olo
+ka-olo: alternative spelling of kaka-olo.
+kaba: Perfective marker.
+kaba: end.
+kaba: to end, to finish, to come to an end.
+kabisi: Lacinato kale (Brassica oleracea var. palmifolia).
+kaboela: superseded spelling of kabula.
+kabula: A dance and music genre evolved from kaseko, characterised by sexually suggestive lyrics and dance movements.
+kado: gift, present.
+kafalek: alternative spelling of kfâlek.
+kaiman: (n.) alligator.
+kaiman: caiman.
+kaka bere: guts.
+kaka fowru: nonstandard spelling of kakafowru.
+kaka-olo: An expletive generally used in attributive position; fucking, damned, blasted.
+kaka-olo: ass. asshole.
+kaka: cock, rooster.
+kaka: shit, crap.
+kakafowru: rooster, cock.
+kakalaka: cockroach.
+kakumbe: chin, jaw.
+kamisa: loincloth worn by Maroon men.
+kamra: room.
+kan: (aux.v.) able.
+kanari: canal.
+kanari: riffraff, rabble.
+kanari: violaceous euphonia, Euphonia violacea.
+kandra: candle.
+kandratiki: candlestick, candelabrum.
+kandu: spell against thieves.
+kaner'apra: (n.) apple, sugar.
+kaneri: cinnamon.
+kankan: comb.
+kankan: pure.
+kankan: strong. large. steadfast.
+kankantri: kapok tree, Ceiba pentandra.
+kanker: cancer (disease of uncontrolled cellular proliferation).
+kanti: to cast.
+kantoro: office.
+kaolo: alternative spelling of kaka-olo.
+kapa: sugar kettle, sirop, copper (a large cauldron used on plantations in sugar production).
+kapalasi: the underside of a cauldron.
+kapasi: (n.) armadillo.
+kapasi: armadillo.
+kapelka: butterfly.
+kapoewa: superseded spelling of kapuwa.
+kapoeweri: superseded spelling of kapuweri.
+kapten: captain. leader. chief of a Maroon or Amerindian village.
+kapuwa: capybara.
+kapuweri: second-growth forest; thicket, shrubland, brushwood (vegetation that regenerates after the clearing of primary forests).
+kari: invitation, summons. phone, cellphone. phone number.
+kari: to call. to list, to mention, to name one by one, to enumerate.
+karsinoli: petroleum.
+karta: card. map.
+karton: cardboard.
+kasaba: cassava.
+kaseri: ritually clean.
+kaseri: state of ritual cleanliness.
+kaseri: to clean, purify ritually.
+kasi: cheese.
+kasi: closet, cupboard.
+kasyuma: (n.) apple, custard.
+katibo: slavery.
+katye: several plant species in the family Fabaceae, Alexa wachenheimii. several plant species in the family Fabaceae, Clathrotropis brachypetala. several plant species in the family Fabaceae, Hydrochorea gonggrijpii. several plant species in the family Fabaceae, Parkia pendula.
+kaulo: pronunciation spelling of kaka-olo.
+kaw: cow.
+kaw: to chew, to masticate.
+kawfutuboi: (n.) ani, smooth-billed.
+kba: (adv.) already.
+kba: Contraction of kaba.
+kedre: cellar, basement.
+kefalek: alternative spelling of kfâlek.
+kefarlek: alternative spelling of kfâlek.
+kel: guy, dude.
+kenki: To edit, change. To trade.
+kenki: change.
+kerfi: to carve, to mark with a carving.
+kerki: church.
+kerkisma: believer (religious person).
+kerub
+kesekese: dispute, strife. difference.
+kesikesi: dated form of keskesi.
+keskesi: collective name for several species of smaller monkeys, tufted capuchin (Cebus apella). collective name for several species of smaller monkeys, wedge-capped capuchin (Cebus olivaceus).
+keskesi: sun conure (Aratinga solstitialis).
+keti: necklace. chain.
+ketre: kettle.
+kfalek: alternative spelling of kfâlek.
+kfâlek: great, fantastic (also used as an intensifier).
+kibri: hidden, concealed. secret, furtive. mysterious. safe, protected.
+kibri: hide and seek.
+kibri: to keep, to save, to hoard. to store, to stash, to put away. to hide, to take cover. to hide, to conceal, to withhold. to protect, to safeguard.
+kibriwiwiri: Sabicea.
+kilometer
+kimboto: several species of plants in the family Sapotaceae, Micropholis egensis. several species of plants in the family Sapotaceae, Micropholis obscura. several species of plants in the family Sapotaceae, Pouteria cuspidata subsp. robusta. several species of plants in the family Sapotaceae, Pradosia ptychandra. several species of plants in the family Sapotaceae, Pradosia surinamensis.
+kina: taboo.
+kindi: knee.
+kino: movie, motion picture. cinema, movie theatre.
+kiri: To kill, to murder. To end, to shut down.
+kiri: to kill, to murder. to end, to shut down.
+kiri: to kill.
+kiriman: killer, murderer.
+kisi
+kka-olo: contraction of kaka-olo.
+klapu: slap.
+klapu: to slap (primarily on the face but also elsewhere). to hit to beat (a rug, etc).
+klari: ready, prepared.
+kleidoti
+klompu: flip-flop, sandal, slipper. clog, klomp.
+kmopo
+kmoto: alternative form of komoto.
+knapu: to stand.
+knekti
+kofarliki: alternative form of kfâlek.
+koiri: to stroll, walk around.
+koko: seed.
+kokobe: Used to emphasize the veracity of an associated statement.
+kokobe: tuberculoid leprosy.
+kolera: madhouse.
+kolo: cabbage.
+koloku: luck.
+komanderi
+komoto: to come out. to come from, originate from, evolve from.
+kompyuter: computer.
+kon go: (v.) accompany.
+kon: come.
+kon: to come, to arrive.
+kon: to come.
+kondre: country. inland village.
+kondreman: countryman.
+kondretongo: native African language of an enslaved person. any native language.
+koni
+konkoni: agouti, Dasyprocta leporina. rabbit, a mammal of the family Leporidae.
+konkroetitéi: superseded spelling of konkrutitei.
+konkru: to tattle, to rat on. to gossip.
+konkrut'tei: telephone.
+konkrutitei: telephone.
+konkrutitey: alternative spelling of konkrutitei.
+konkruttei: contraction of konkrutitei.
+konsaka: athlete's foot.
+konsakawiwiri: pepper elder, Peperomia pellucida.
+kontreki: place, region, area, neighbourhood.
+kontren
+kopro
+koprosensi: cent, penny (a coin worth one cent).
+kor kori: to fake. to fool.
+kor'kori: (vt.) appease.
+koranti: newspaper.
+kori: stroke.
+kori: to flatter with the intention to cheat, kiss up. to fool, trick, deceive. to stroke, to pet, to caress.
+korsow-apra
+korsu: fever.
+korsuwiwiri: Stylosanthes viscosa. common lantana, Lantana camara.
+kosi: curse, swear.
+kosi: to swear, to curse. to insult, to swear at.
+kosokoso: the act of repeated coughing.
+koti .. puru: (idiom.) amputate.
+koti pasi: (idiom.) avoid.
+koti: cut.
+koti: to cut.
+koto: A traditional African-Surinamese dress.
+kotoigi: to witness.
+kotoigi: witness.
+kotoygi: alternative spelling of kotoigi.
+kownu: king.
+kownukondre: kingdom.
+kownusturu: throne.
+kowroe
+kowru: cold.
+kowru: to make cold. to cool.
+kowsu: sock, stocking. condom.
+kra: "soul, spirit; in the Afro-Surinamese Winti belief system, a spiritual entity, representing the supreme creator Anana, who determines an individuals life and returns to its origin upon the individuals death, ceasing interaction with the world of the living".
+krabita: goat.
+krabu: crab.
+krabu: to scratch, scrape.
+krabu: to scratch.
+kragi: (v.) accuse.
+kragi: complaint.
+kragi: to complain.
+krakun: turkey (pheasant-like bird).
+krapa: The andiroba, crabwood tree, or crappo; Carapa guianensis. The African crabwood tree; Carapa procera.
+krape: green sea turtle, Chelonia mydas.
+krara: bead.
+krarasneki: () amphisbaena, mottled.
+kraroen: superseded spelling of krarun.
+krarun: Chinese spinach, red spinach, Amaranthus dubius.
+kras'meti
+kras'mira: (n.) ant, fire.
+krasi: (adj.) aggressive.
+krasi: to itch.
+krasi: to scratch.
+krasiwiwiri: West Indian woodnettle, Laportea aestuans.
+krei: To cry.
+kren: to climb.
+kresneti: alternative letter-case form of Kresneti (Christmas).
+kresnetibon: Christmas tree.
+kriki: creek, brook.
+krin: clean. clear.
+krin: to clean. To polish.
+krinskin: luck.
+kroiki
+kroipi
+kromanti: magical, pertaining to rituals for summoning ancestral spirits. African (originating from Africa).
+kromanti: the Akan language (spoken by enslaved people arriving from the Gold Coast).
+kromantiwiwiri: Struchium sparganophorum.
+kronkron
+krosbei: near.
+krosbej: near.
+krosi: clothing, clothes.
+kruderi: to agree. to make an appointment.
+kruktu-anu: left.
+kruktu: wrong, bad. crooked.
+kruktudu
+kruktutere: scorpion.
+krutu: court. tribal meeting, consultation.
+krutu: to judge. to consult, to deliberate. to harangue, to grumble, to complain.
+krutubakra: judge.
+krutukrutu
+kruyara: curiara, dugout, hollowed-out canoe, pirogue.
+kubi: Plagioscion surinamensis (a species of freshwater ray-finned fish).
+kufkaf: to fly into a rage; to go berserk; to freak out.
+kukru: kitchen.
+kuku: cake, pastry.
+kula: boat pole.
+kula: to pole a boat.
+kuli: coolie; an Indian-Surinamese person, a Surinamese person of Indian descent.
+kulibonki: hyacinth bean (Lablab purpureus).
+kumakriki: easy.
+kumba: navel.
+kumorgu: good morning.
+kundu: lump, nodule.
+kundu: short, little (Of comparatively small height). greedy, stingy.
+kundu: to be greedy, to be stingy.
+kuneti: good evening.
+kunsu: pillow, cushion.
+kuri: a coolie.
+kuriaku: grey brocket (Subulo gouazoubira, syn. Mazama gouazoubira), of South America.
+kusuwe: (n.) anatto.
+kwari: several plant species in the family Vochysiaceae.
+kwata: red-faced spider monkey (Ateles paniscus).
+kwek: mercury.
+kweki: To breed. To raise.
+kwet'kweti
+kwetkvveti
+kwinsi: squeeze.
+kwinsi: to squeeze.
+labaria: synonym of owrukukusneki (common lancehead, Bothrops atrox).
+lafu: to laugh.
+lagadisa: lizard.
+lai: (vi.) abound.
+lampoe
+lampu
+langa: long.
+lanpresi
+lansma
+lanti: (n.) authorities.
+lanti: government, state, administration.
+lantibakra: civil servant.
+lantiberi: "paupers funeral".
+lantyi
+lasi: arse, ass, buttocks.
+lasi: loss.
+lasi: to lose. to disappear.
+laste
+law: To be crazy. To drive somebody crazy.
+lawlaw: craziness.
+lawman: crazy person.
+lebelebe: pudgy, flabby. slimy.
+lebelebe: slime.
+lebelebe: sluggishly, languidly.
+lebrikibonyo
+ledi: archaic form of redi.
+lefre: liver.
+legre: (n.) army.
+legre: army.
+leigi
+leisi: time (an instance or occurrence).
+leisi: to read.
+leki: (ad.) as.
+leki: like, similar to.
+leki: like, such as. as if.
+lepi: ripe.
+leri: leather.
+leri: teaching, lesson. instruction, education.
+leri: to learn. to teach.
+leriman
+lespeki
+let'
+leti-anu: right.
+leti: To light.
+leti: equal.
+leti: light.
+leti: straight, correct.
+leti: straight.
+lew: lion.
+liba: river.
+libi: (v.) abandon.
+libi: (vi.) alive, be.
+libi: life.
+libi: to leave, to abandon.
+libi: to live.
+libibro
+libilibi: (ad.) alive.
+libimakandra: society, community.
+libimarki: (n.) age.
+libisani
+libisma: human, human being.
+libisma: man (human being).
+lidon: lie.
+likanu: (n.) anteater, pygmy.
+likanu: pygmy anteater (Cyclopes didactylus).
+linga: ring.
+liter
+lo: flat, low-lying.
+lo: oar.
+lo: row (a line of objects of people). multitude, a great amount or number. gang. herd, pack, a (a group of animals).
+lo: to row.
+lo: tribe, clan.
+lobi: love. beloved.
+lobi: to love. to love (to be inclined towards something), to like. to like doing something.
+lobi: to rub.
+loekoe: superseded spelling of luku.
+loiki: hatch. window, pane.
+loiri: sloth (any animal in the suborder Folivora).
+loktoe
+loktu: (n.) air.
+loktu: sky.
+loli: slime.
+loli: slimy.
+lon: flow.
+lon: to flow.
+lon: to run.
+lont'oso
+lontoe
+lontoso: contraction of lontu-oso.
+lontu-ai: (n.) allspice.
+lontu-oso: police station.
+lontu: (ad.) all over.
+lontu: (ad.) around.
+lontu: (prep.) around.
+lontu: around.
+lontu: round, circular.
+lontu: round.
+lontu: to surround.
+loso: louse.
+lostu
+lota: tinea versicolor (a skin condition causing discoloured patches).
+loto: lead (metal).
+lowe: to flee, to run away, to escape.
+loweman: escapee; deserter; fugitive.
+luku: a consultation given by a spirit-possessed shaman in which he provides a diagnosis of personal problems or disease.
+luku: to look. to look at.
+luru: (vt.) alert, to be on the -.
+lusumbe: centipede (animal of the class Chilopoda).
+lutu: root.
+lòt: destiny, fate.
+m'ma
+m'manten
+m'mapanpan
+ma
+madungu: hydrocele testis. inguinal hernia.
+maka: thorn, barb, spine, spike.
+makakapasi: (n.) armadillo, Kappler's.
+makamaka: thornbush, spiny shrubs.
+makamaka: thorny, spiny.
+makamakawiwiri: Arrabidaea mollis.
+makandra: one another, each other.
+makandra: together.
+makriki: easy.
+makti
+malengrisma
+mama: mother.
+mama: mother. origin, source, centre, basis.
+mamafoto: capital city.
+mamanten: morning.
+mamapanpan: asshole, motherfucker.
+mambula: red acouchi (Myoprocta acouchy).
+man-: Forms male equivalents.
+man: (aux.v.) able to.
+man: man (adult male).
+man: man, male human.
+man: man.
+man: to be able to.
+mana
+manbitawiwiri: Brunfelsia guianensis.
+manbokoboko: synonym of bokoboko (billy goat).
+mandi
+mandoksi: drake (male duck).
+manfowru: rooster, cock (male domestic chicken).
+mangri: thin, skinny, scrawny. infertile (of soil).
+mangri: thin.
+mankaw: bull (male domestic cattle).
+mankeri: (n.) accident.
+mankrabita: synonym of bokoboko (billy goat).
+manpikin: son.
+mansipasi: alternative form of manspasi.
+mansma
+manspasi: emancipation (the abolition of slavery).
+manwan
+manyapiren: redeye piranha, Serrasalmus rhombeus.
+mapangpang: superseded spelling of mamapanpan (asshole, motherfucker).
+marbonsu: umbrella wasp, any wasp of the genus Polistes.
+marki: (v.) aim.
+markoesa: superseded spelling of markusa.
+markusa: passion fruit.
+masi: to squash. to crush.
+masra: husband.
+masra: mister, sir, lord, master.
+masusa: Renealmia alpinia.
+masuwa: archaic form of maswa.
+maswa: fish trap.
+mati: friend, mate, buddy. woman in a lesbian relationship.
+matrasi
+matrosi: sailor, seafarer.
+mayanapiren: Redeye piranha, Serrasalmus rhombeus.
+meer
+meki mofo: (idiom.) agree on.
+meki: (vt.) allow.
+memre: To remember.
+memre: token. souvenir.
+meri: to touch.
+merki: milk.
+merki: to milk.
+mesre: to lay bricks.
+meter
+meti: (n.) animal.
+meti: animal.
+meti: flesh.
+meti: meat, flesh. animal. concubine.
+meti: meat.
+metiboeba
+mi Gado: my God!.
+mi wan ai karu: (idiom.) apple of my eye.
+mi: I.
+mi: I. me. my.
+mindri: between.
+mindri: middle, midst.
+mindrifinga: middle finger.
+mira nesi: (n.) ant nest.
+mira-oso: ant hill.
+mira: (n.) ant.
+mira: ant.
+mirafroiti: (n.) anteater, lesser.
+mirafroiti: Southern tamandua (Tamandua tetradactyla).
+miri: mill, grinding apparatus.
+misi: girl.
+misrefi: myself.
+miti
+mma: contraction of mama.
+mmanten: contraction of mamanten.
+mmapanpan: contraction of mamapanpan.
+moe: must. have to. should.
+moeiti
+moesoe
+mofo: mouth.
+mofo: mouth. word.
+mofobuba: lip.
+mofodoro
+mofoneti
+moi: beautiful.
+moiboifudada: Casanova, playboy, lady-killer. braggart, boaster.
+moimoi: (vt.) adorn.
+moismoisi: A mouse. Any other mouse-like animal not closely related to mice.
+momenti
+moni: money.
+monyo: (v.) abundance, be in.
+mope: hog plum, Spondias mombin.
+morgu: good morning.
+moro bigi: comparative degree of bigi.
+moro tranga: comparative degree of tranga.
+moro: (ad.) anymore.
+moro: more.
+moro: to exceed, to be more than (Used to construct comparative phrases).
+morsu: dirty.
+mosonyo: Imperata brasiliensis (a species of grass). a ritual or ordeal to establish the guilt of one of several accused people which involves a necklace made of mosonyo.
+motjo: superseded spelling of motyo.
+motyo: prostitute, whore.
+motyo: to whore.
+motyofowru: Black-capped donacobius (Donacobius atricapilla).
+motyop'pa
+motyopa: alternative spelling of motyopapa.
+motyopapa: jockey, john (client of a prostitute). womanizer, philanderer. a man who fathered children with several women.
+motyoppa: alternative spelling of motyopapa.
+mpp: abbreviation of mamapanpan (asshole, motherfucker).
+mu
+mui: older woman, elderly woman.
+muilek: difficult, hard. annoying, bothering.
+muilek: to bother, to annoy.
+muiti
+mumu: drowsy, dull, lethargic.
+mun: moon.
+mun: moon. month.
+munde: Monday.
+mus: to have to, must.
+musu: bonnet, cap.
+musu: must, should (expresses imperatives or necessity).
+mutende: Vochysia guianensis (a neotropical tree species).
+mutete: basket.
+mutyama: rainbow.
+na: (prep.) at.
+na: at.
+na: at; to; on; according to.
+na: in.
+na: near.
+na: the (definite singular article).
+na: to be (copula).
+nai: to sew.
+naj: sew.
+naki: hit.
+naki: to hit, to knock. to play a percussion instrument. to jab.
+nanai: needle.
+nanga krin ai: (idiom.) awake, wide.
+nanga opo mofo: (idiom.) amazed.
+nanga: and.
+nanga: with.
+nangra: claw.
+nangra: fingernail.
+nangra: nail, fingernail. claw, clutch.
+napi: purple yam (Dioscorea alata).
+nati: wet.
+natnati
+ne
+nefi: knife.
+neigi: nine.
+neigitenti
+neigitenti-na-feifi
+neki: neck.
+neki: neck. throat.
+neku: Lonchocarpus chrysophyllus (a liana species). a poison extracted from the roots of Lonchocarpus chrysophyllus, which is added to fishing waters to bring fish to the surface. Alexa imperatricis (a flowering plant).
+neleki
+nen: name.
+nengre: a black person. a man. a person. Sranan Tongo.
+nengrekondre: (n.) Africa.
+neti: night.
+netiwinti
+neygi: alternative spelling of neigi.
+njam: eat.
+njan
+njanjan
+njun: new.
+no span: no worries.
+no spang: superseded spelling of no span.
+no: Used to construct comparative phrases involving a non-human standard.
+no: no. not.
+no: not.
+nofo: enough.
+noiti: never.
+nombroe: number.
+nomo
+nomonomo
+noso: nose.
+noso: or, otherwise.
+noti: nothing.
+notisi: attention.
+now
+nowan: no one.
+nownow: (ad.) at once.
+nowtu: emergency.
+nyam: pronunciation spelling of nyan.
+nyan en niri: (idiom.) annoyed, be .. at something.
+nyan: (transitive, intransitive) to eat. (transitive idiomatic) to celebrate.
+nyan: food.
+nyan: to eat.
+nyan: to eat. to celebrate.
+nyansani
+nyanyan: food.
+nyenye: effeminate.
+nyun: new.
+nyunsu: news. message, report.
+nyunyari: New Year. "New Years Day".
+nyunyun
+o-fa(si): how.
+o-juru: when.
+o-o: twin.
+o-pe: where.
+o-ten: when.
+o: Verbal marker for the future tense.
+o: how.
+obe: Elaeis oleifera (the American oil palm and its fruit).
+obia a no fu yu, no spiti na ini: cobbler, keep to your last (mind your own business).
+obia: a spirit that operates in a healing way. a magic medicine. a charm.
+obia: magical.
+obia: to perform magic.
+obiaman: healer. priest.
+odi: A greeting; good wishes, regards.
+odi: greetings, good day.
+odo: proverb, saying.
+oema
+oen: superseded spelling of unu.
+oenoe
+ofrandi
+ofskon: although, albeit.
+ogri: bad, evil.
+ogri: bad.
+ogrimeti
+ogriwan
+okasi: opportunity. chance.
+okro: okra (Abelmoschus esculentus).
+olati
+oli: (n.) aromatic oil.
+oli: oil. petrol (UK), gas (US), or another fuel used for motorised vehicles.
+olo: hole, crevice.
+olo: pierce.
+oloisi: watch. clock.
+oma: grandmother.
+omeni: a lot.
+omeni: how many. how much. a great many.
+omeni: so many. so much.
+omu: uncle. ethnic Chinese shopkeeper. corner store.
+ondro-anu: (n.) armpit.
+ondro: (prep.) among.
+ondro: down.
+ondrobere: (n.) abdomen.
+ondrobere: abdomen.
+ondrofeni: experience.
+ondrofeni: to experience.
+ondrosuku: to investigate, examine, do research.
+ongoloku: (n.) adversity.
+oni: honey. honey bee, Apis mellifera. stingless bee.
+onti: hunt.
+onti: to hunt.
+ontidagu: hound.
+ontiman: hunter.
+oostsei
+oparasi: alternative form of operâsi.
+operasi: alternative spelling of operâsi.
+operâsi: operation (a surgical procedure). operation (a military campaign).
+opete: vulture.
+opo: up.
+opolangi: (n.) aeroplane.
+opolangi: airplane.
+oponaki: to save.
+orga: (vt.)
+ori: hold.
+ori: to hold.
+oso: house.
+oten: when.
+oto: (n.) automobile.
+oto: car, automobile.
+owktu: (adv.) also.
+owktu: also, too, as well.
+owroe
+owru: (v.)
+owru: machete, sword, blade.
+owru: old.
+owrukuku: owl. ellipsis of owrukukusneki (common lancehead, Bothrops atrox).
+owrukukusneki: common lancehead, Bothrops atrox.
+p'kin
+p'pa
+pagara: reddish, quadrilateral water-proof basket with a lid, braided from reed-like strips of warimbo (Ischnosiphon gracilis) with leaves of palulu (Heliconia bihai) in between. firecracker string, firecracker roll.
+pai: to pay.
+pai: wage.
+paisa: money. payment, salary.
+pakira: collared peccary, Dicotyles tajacu.
+pakro: snail.
+pampun: pumpkin.
+pangi: loincloth, pagne.
+pankuku: pancake.
+panpan: vagina.
+papa: father, dad. sir, gentleman. penis.
+papa: father.
+papa: mush. porridge. a sweet custard-based or cornflour-based dessert.
+papira: paper. page. document.
+paramarkusa: (n.) apple, belle.
+pari
+partèi: political party.
+pasensi: patience.
+pasensie: superseded spelling of pasensi.
+pasi: path.
+pasi: road.
+pata: canvas shoe, plimsoll, trainer.
+patawa: patawa, Oenocarpus bataua.
+pawsu: pope (head of the Catholic church).
+paysa: money.
+pe: where.
+pe: where. where.
+pegreku: several plant species in the family Annonaceae, chiefly in the genus Xylopia.
+peiri: (n.) arrow.
+pen peni: dotted, spotted.
+penpeni: dotted, spotted.
+peri: pearl.
+perki: pill.
+pesi: pea.
+petepete: Signifies soaking wetness.
+peti: well.
+pikadu: sin.
+piki: (n.) answer.
+piki: (v.) to answer, to reply.
+pikin tori: "its nothing, dont mention it, youre welcome".
+pikin-uma: girl.
+pikin: child.
+pikin: small.
+pikinfinga: little finger, pinkie.
+pikinkapasi: (n.) armadillo, broad-banded.
+pikinmisi: young lady.
+pikinnengre: child.
+pikinpikin
+pikinso: a little, a little bit. briefly.
+pikinwan
+pinda: peanut.
+pindadokun: peanut butter.
+pingo: white-lipped peccary (Tayassu pecari).
+pio: puke.
+pipel: people, population.
+piren: piranha.
+piri ai gi: (idiom.) attention, pay close .. to.
+piri-ai gi: (vi.) admonish.
+pis'pisi
+pisi: piece.
+pisten: (n.) awhile.
+pkin: contraction of pikin.
+pkinso: contraction of pikinso.
+plafon: ceiling.
+plata: flat.
+ploi: To put a crease or fold in cloth.
+ploi: crease (in cloth). wrinkle (in skin).
+ploiploi: wrinkled.
+ploy: alternative spelling of ploi.
+ployploy: alternative spelling of ploiploi.
+podosiri: acai (the fruit of Euterpe oleracea, consumed as pulp, mousse, or juice).
+poeroe
+poku: music.
+pokuman: musician.
+pomerak: (n.) apple, Malay.
+pomusteri: (n.) ambarella.
+pomusteri: (n.) apple, golden.
+pondo: ferry.
+pontu: pound.
+popki: puppet, doll.
+pori: decay, rotting.
+pori: rotten, spoilt, decayed. rotten, atrocious, terrible. spoilt, pampered.
+pori: rotten.
+pori: to rot, to spoil, to decay, to go bad. to ruin, to destroy, to mess up, to botch. to waste, to spill, to squander. to mar, to disgrace. to damage, to break, to wear out. to pamper, to indulge.
+portreti: photo.
+posren: porcelain.
+poti: to put, to lay, to place, to set.
+potopoto: completely, utterly.
+potopoto: mud.
+powisi: black curassow (Crax alector).
+ppa: contraction of papa.
+prakseri: to think, ponder. to suspect.
+prakseri: to think.
+prakseri: token, souvenir. plan.
+pranasi: plantation.
+prani
+pransoen
+prati
+pre: to play. to perform.
+prei: a play (a stage performance). a ceremonial celebration in the Afro-Suriname Winti religion honouring spiritual entities.
+prei: to play (to be engaged in a game). to play, to perform. to play (to let an audiovisual storage medium run).
+prei: to play.
+prei: to play. to perform.
+preiki: sermon.
+preiki: to preach.
+preikiman: preacher.
+preisani: toy.
+pren: public square, plaza.
+prenspari
+prentji
+prentyi: photo.
+presi
+priester
+primisi: (n.) approval.
+primisi: (n.) authorization.
+prisiri: fun. joy. rejoicing.
+prisirie: superseded spelling of prisiri.
+prit'finga: (n.) athlete's foot.
+priti: split.
+priti: to split.
+proberi: to try, to try out.
+prodo: decoration, ostentation.
+prodo: to dress up, especially in fashionable or ostentatious clothing.
+profeiti: prophet.
+profosu: Guiana dolphin (Sotalia guianensis).
+psa: (prep.) along.
+ptjin ~ pikin: small, child.
+publiki: public.
+puiri: powder. cocaine.
+puirisopo: washing powder.
+puirisukru: powdered sugar.
+puru
+puru .. bere: (idiom.) abort a pregnancy.
+puru atibron tapu: (idiom.) anger, take out one's.
+puspusi: cat.
+pusu: to push.
+pôti: poor, impoverished, needy.
+rafru: macaw (parrot).
+rai: (n.) advice.
+raiman
+redi: red.
+redi: red. light-skinned (having relatively light-colored skin).
+redimusu: a member of the Negro Free Corps, a colonial military unit in Suriname made up of free blacks and freedmen. traitor, race traitor, collaborator.
+refrensi: (vt.)
+republiek: republic.
+rigeri: to rule, reign, govern, lead.
+ros: to beat up, to give a beating.
+rutu: (n.) ancestry.
+rutu: descendence (of family). root.
+rutu: root.
+rèi: to drive, to ride.
+sa: A saw (tool with a serrated blade, used for sawing).
+sa: Verbal marker for modal aspect. Verbal marker for the future tense.
+sabaku: Any of several small white egrets (Egretta alba, Egretta thula, Bubulcus ibis).
+sabatdei
+sabi: (transitive verb) to know. (auxiliary verb) to be able to.
+sabi: know.
+sabi: knowledge, wisdom.
+sabi: to know.
+sabi: to know. to be able to (of learnt skills).
+sabidensi: science.
+safri taki: To whisper.
+saguwenke: red-handed tamarin (Saguinus midas).
+saide: pronunciation spelling of sanede (why).
+saka
+saka ensrefi: (vi.) agree with.
+salfu: (n.) anointing.
+san-ede: alternative spelling of sanede.
+san: what.
+sanede: why.
+sani: thing.
+santa: holy.
+santa: saint.
+santi: sand.
+sarasara: shrimp.
+sari
+sarki: shark.
+satra: Saturday.
+se: sea.
+sebrefata: scum, wretch, bastard.
+segansi: flamingo.
+sei
+seibere
+seibi: seven.
+seibitenti
+seibitenti-na-seibi
+sek'seki
+seki: to shake, wobble, wag.
+sekrepatu: tortoise, turtle.
+semprefisi: (n.) aloe.
+seni: to send.
+sensi: cent (a subunit of currency equal to one-hundredth of the main unit of currency, such as the former Surinamese guilder and the current Surinamese dollar).
+sensi: since.
+senwe: (n.) anxiety.
+seri: to sell.
+seriman: seller.
+seryusu: serious.
+seti: (v.) arrange.
+seybi: alternative spelling of seibi.
+si: see.
+si: to see.
+sibiboesi: superseded spelling of sibibusi.
+sibibusi: cloudburst, sudden torrential tropical rainstorm.
+sidon: sit.
+sidon: to sit.
+sigara: cigar.
+siki
+sikiman
+sikisiki: (v.) ailing, to be.
+sikisma
+siksi: six.
+siksijoeroe: superseded spelling of siksiyuru.
+siksitenti-na-feifi
+siksitenti-na-neigi
+siksitenti-na-tu
+siksiyuru: true cicada (any cicada of the family Cicadidae).
+sili: soul (a singular and indivisible spiritual essence of a person, particularly inherent to the Abrahamic religions).
+singi: sing.
+singi: singing, song.
+singi: to sing.
+singiman: singer.
+sipari: dated form of spari.
+sipi: ship.
+siri: highly curly.
+siri: seed.
+siri: seed. stone (the hard layer around the seed in some fruits). grain, kernel.
+sisa: sister.
+sjatu: short.
+sji: see.
+sji: superseded spelling of syi.
+skana: lover, sweetheart, side piece.
+skapu: sheep.
+skapuloiri: "Linnaeuss two-toed sloth (Choloepus didactylus)".
+sker: In marble games, having lost and being unable to pay marbles due to having ran out of marbles completely.
+sker: to shave.
+skeyn: proposal.
+skin-ati
+skin: body. skin, hide. exterior.
+skopu: shovel, spade. kick.
+skoro: school.
+skowt oso: "misspelling of skowtoso".
+skowt'oso
+skowtoso: contraction of skowtu-oso.
+skowtu-oso: police station.
+skowtu: police, police officer.
+skrifi: to write. to be written.
+skrifiman: (n.) author.
+skrifiman: author, writer.
+skrifimodo: spelling, orthography.
+skrufu: screw (fastener). joint.
+skrufu: to screw (to connect or assemble pieces using a screw).
+skuma: foam, froth.
+skuru: (v.) abuse.
+skuru: To scrub, to scrape, to scour, to sand. To speak abusively.
+skwala: wave.
+sma: man (human being).
+sma: person, human being. Together with the article a (the), used to refer to a specific but unnamed person.
+sma: who, person.
+smara: narrow.
+smeri: (n.) aroma.
+smeri: to smell.
+smeri: to smell. to smell.
+smeti
+smoko: smoke.
+smoko: to smoke, to produce smoke. to smoke (of tobacco and tobacco products).
+snapu: to stand.
+snekfisi: eel.
+sneki: snake.
+snew: snow.
+snoga: synagogue.
+so
+sodro: (n.) attic.
+soema
+soigi: to suck.
+sojgi: suck.
+soktu: sigh.
+solanga: (conj.) as long as.
+soleki
+solfru: silver.
+solfrumoni
+someni: so many.
+son: Sun.
+son: some.
+son: sun.
+sonde: Sunday.
+sondro: without.
+sondu: sin.
+sonloiri: pale-throated sloth (Bradypus tridactylus).
+sonopo: east.
+sonwan
+sopi
+sopiman: (n.) alcoholic.
+sopropo: bitter melon, bitter gourd, the fruit of Momordica charantia.
+sorgu: To take care of.
+sori: To point (at).
+soro: sore. wound.
+soro: to hurt, to be sore.
+sortoe
+sortu: sort, kind, type.
+sortu: what kind of.
+soso: empty, hollow, inconsequential. pure, mere, sheer, only. free (no costs). naked, bared, dehusked.
+soso: in vain, for nothing. only, just, nothing more, purely.
+sosofutu: barefoot.
+sososkin: naked, nude.
+sosrefi: (cj.)
+sot: pronunciation spelling of sortu (what kind of).
+sote
+sowan
+sowtu: To have bad luck.
+sowtu: salt.
+soygi: alternative spelling of soigi.
+span: exciting. angry, displeased. busy, crowded. tight, taut. tense, stressed. loaded, crammed. loaded, armed.
+span: tension. excitement.
+span: to stretch out. to tighten. to crowd. to suffer stress, to be agitated. to be exciting. to load, to arm.
+spari: collective name for several species of stingrays.
+speri: (adj.) alike.
+speri: (n.) age, same.
+speri: equal.
+spesrutu
+spikri: mirror.
+spikri: nail (metal fastener).
+spiti: To spit.
+spiti: saliva.
+spiti: to spit.
+spotu: joke.
+sproiti: shoot, sprout.
+spuku: ghost, spirit, spectre.
+spun: spoon.
+spuru: to wash, rinse.
+spuru: to wash.
+srafu: slave.
+srakti: to slaughter, to butcher.
+srapu: sharp (as a knife).
+srapu: sharp.
+srapu: to sharpen.
+srefi: self.
+srefidensi: independence. Surinamese Independence Day, a national holiday in Suriname observed annually on 25 November.
+srefidensi: independent.
+srefsrefi
+sren: Surinamese shilling; a former pre-decimalization coin worth 5 Surinamese stivers. The amount of money equal to 8 decimal cents.
+srepi: to haul, to tow.
+sribi switi: good night.
+sribi: To sleep.
+sribi: sleep.
+sribi: to sleep.
+sribikamra: bedroom.
+sroto: lock. key.
+sroto: to lock. to lock up, to imprison, to incarcerate.
+srudati: soldier.
+stampu
+stari: star.
+sten: voice.
+sterapra
+stjin: skin.
+stof: dust.
+ston: stone.
+stonbanti: (n.) athletic supporter.
+straf'oso
+strafu: punishment.
+strafu: to punish.
+strati: street.
+strei-aksi: issue, dispute.
+strei: to fight.
+strowm: electricity.
+stupu: pavement, sidewalk.
+sturu: chair, seat.
+sukru: sugar.
+sukrumira: (n.) ant species.
+suku: search. romantic or erotic proposal.
+suku: to search, to try to find, to look (for).
+sula: cataract, rapids.
+suma: dated form of sma (person).
+suma: who, person.
+suma: who.
+susu: shoe.
+swa: acid.
+swa: sour.
+swagri: brother-in-law.
+swaki: weak.
+swampu: swamp.
+swari: To swallow.
+swen: swim.
+swen: to swim.
+sweri: neoplasm.
+sweri: swell.
+sweri: to swear (an oath).
+sweri: to swell.
+sweti: sweat.
+sweti: to sweat. to make an effort.
+switi: lovely. pleasant. tasty. sweet.
+switismeri: perfume.
+syatu: short.
+syatu: to shorten.
+syen: (v.) be ashamed.
+syen: shame, disgrace.
+syen: shameful.
+syen: to feel ashamed.
+syenpresi
+syi: to see.
+syoro
+syène: blunder, disappointment.
+sé: sea.
+t'tu
+tabaka: tobacco, Nicotiana tabacum.
+tafra: table.
+tai: to tie, to bind.
+tai: to tie.
+taibere: cotton wraparound garment, specifically worn by women after childbirth in order to strengthen their abdominal muscles.
+taigi
+taj: tie.
+tak'
+taki: branch, stick, twig.
+taki: say.
+taki: saying, expression.
+taki: that.
+taki: to say.
+taki: to talk.
+takiman: speaker, spokesman.
+takru: bad.
+takru: evil, bad. ugly.
+takruboi: synonym of kanker (cancer)).
+takrusiki: synonym of kanker (cancer)).
+tamanuwa: (n.) anteater, giant.
+tamanwa: giant anteater (Myrmecophaga tridactyla).
+tan na ai: (idiom.) awake, stay.
+tan tiri a no don: speech is silver, silence is golden.
+tan: to stay, to reside. to stay, to remain in a state.
+tanapu: stand.
+tangi
+tanpe
+tanta: (n.) aunt.
+tanta: aunt.
+tanyitanyi: begging.
+tanyitanyi: please.
+tap ala: A person who is greedy.
+tapoe
+tapu: (prep.) above.
+tapu: on, on top of.
+tapu: sky.
+tapu: to stop.
+tara: obsolete form of tra.
+tata: (title.)
+tata: father.
+te kakafowru kisi tifi: when pigs fly.
+te: tea.
+te: until.
+te: when.
+tego
+teigo
+teilefown: telephone.
+teki refrensi: (idiom.) avenge.
+teki: (verb) to take.
+teki: to take.
+tempel
+temre: to engage in carpentry, to timber.
+temreman oso no abi bangi: "the shoemaker's children go barefoot".
+temreman: carpenter.
+ten: time.
+tenti
+tere: tail.
+teri: to count.
+tesi: taste.
+tesi: to taste.
+tesi: to test; tempt.
+tesi: trial; test; temptation.
+tibri: stiver; a former pre-decimalization Surinamese coin worth eight doits.
+tide: today.
+tifi: tooth.
+tifidatra: dentist.
+tigrikati: ocelot (Felis pardalis).
+tiki: stick, rod.
+tiki: stick.
+tikoko: flamingo.
+tikotiko: hiccup.
+tikotiko: to hiccup.
+tin-na-feifi
+tin: ten.
+tingi: to stink.
+tinsensi: dime (a coin worth 10 cents).
+tiri: silent, still.
+titei: rope.
+tnapu: to stand.
+todo: frog, toad. With the particle no, used as an intensifier, particularly for switi.
+toe
+toetoe: superseded spelling of tutu.
+tofru: to use magic, to practice magic.
+toku
+tongo: tongue (flexible muscular organ in the mouth). language, tongue.
+tongo: tongue (organ).
+tongo: tongue.
+tonton: dumpling made from mashed plantain. synonym of edetonton (brain).
+tori: story, tale. thing, matter, issue, situation. gossip, dirt, hearsay.
+tori: to woo, to sweet-talk.
+tra fasi: another way.
+tra fasi: differently.
+tra: last, past.
+tra: other.
+tranga: strong. hard. difficult, unpleasant. loud.
+trapun: Atlantic tarpon (Megalops atlanticus).
+trawan
+trefu: dietary taboo, disallowed food.
+triki
+tripa: guts.
+trobi: quarrel, row.
+trobi: to disturb, to harass, to pester, to tease.
+trobiman: troublemaker.
+tron
+trotro: ancestor.
+trow-oso
+trowe
+trowmasra
+trowmisi
+trowstu
+tru: true.
+tru: truth.
+trutru
+ttu: contraction of tutu.
+tu-ede sneki: (n.)
+tu: (adv.) as well.
+tu: too, also, as well.
+tu: two.
+tudewroko: Tuesday.
+tumsi: too (usually postpositive).
+tutenti
+tutenti-na-feifi
+tuter: horn, klaxon (loud alarm on motorised vehicle).
+tutu: horn (bone outgrowth on the head of some mammals). horn (musical instrument). horn (musical instrument), trumpet. horn (musical instrument), trombone. horn (musical instrument), saxophone. horn (of a car).
+tutu: horn.
+twarfu: twelve.
+twarfusren: a guilder.
+tyant: to flirt with, to seduce someone, to hit on someone. to talk.
+tyant: to flirt with, to seduce. to talk.
+tyari: (transitive) to carry, to bear, to bring. (transitive) to bear, to withstand. (noun) yoke.
+tyari: to carry, to bear, to bring. to bear, to withstand.
+tyari: yoke.
+tye: oh.
+tyopu: to tap (with a finger).
+tyubun: Signifies splashing.
+têgo
+u: we.
+udu: wood.
+udu: wooden.
+uduloso: termite.
+uku: (n.) angle.
+uma-: Forms female equivalents.
+uma-agu: sow (female pig).
+uma-asi: mare (female horse).
+uma: woman.
+umadagu: she-dog, bitch (female dog).
+umapikin: girl.
+umaskowtu: policewoman (female police officer).
+umasma
+umawan
+un: we.
+un: you (plural).
+unu: we.
+unu: you (plural).
+unu: you (plural). we, us (inclusive).
+urei: hooray.
+w'wiri
+w: we.
+wagi: car. cart, vehicle, wagon.
+wagiman: porter (person who transports goods for a fee).
+wai: to blow.
+waka: to walk.
+waka: to walk. to travel. to go (well), to work (properly), to function, to run.
+waka: walk.
+waka: walk. journey. method; procedure.
+wakawaka-mira: (n.) ant, army.
+waki: To stare.
+wakka: superseded spelling of waka.
+wakti: (v.) await.
+wakti: to wait, await.
+wakti: watch (a particular time period when guarding is kept).
+waktiman
+wan bun kon na ini: welcome.
+wan bun nyunyari: happy New Year.
+wan fru wan: one by one.
+wan switi Kresneti: merry Christmas.
+wan tra: (adj.) another.
+wan: (art.) a.
+wan: Placed before a singular noun, indicating a general case of a person or thing: a, an.
+wan: contraction of wani.
+wan: one.
+wani: desire.
+wani: to want.
+wansi: all.
+wansi: already.
+wansi: even.
+wansma: someone.
+wantu: some.
+wanwan: few.
+waran: warm.
+warskow: to warn.
+warskow: warning.
+warti
+wasi: to wash.
+wasi: wash.
+wasi: wax.
+waswasi: wasp.
+watra: water.
+watradagu: otter.
+wawan: (ad.) alone.
+wawan: only.
+we
+wefi: wife.
+wegi: weight.
+wenke: girl, young woman.
+wenkri: shop, store.
+wenkriman: shopkeeper, storekeeper.
+wenter: winter.
+weri-ede: (ad.) annoying.
+weri: to wear, put on. dress.
+weri: weary, tired.
+weti: to whiten. to dye blond.
+weti: white.
+weti: white. cocaine.
+wey: pasture.
+wi: our.
+wi: we, us.
+wi: we.
+wiki: (ad.) awake.
+wiki: (vi.) arise.
+wiki: (vt.) arouse.
+wiki: week.
+win
+winsi: alternative form of awinsi (although, even if).
+winsi: to wish.
+winsi: wish.
+winti wai, lanti pai: Used to indicate indifference to good governance, prudent management of public assets, or civic engagement; whatever happens, the government will foot the bill; the individual need not take personal responsibility, because the state will do so.
+winti: wind.
+winti: wind. spirit. deity.
+winti: winti, a Surinamese religious tradition based on practices from African religions.
+wipi: to whip.
+wipi: whip.
+wiri: wheel, gear.
+wiriwiri: leaf, hair, feather, weed.
+wiriwiri: obsolete form of wiwiri.
+wirri-wirri: obsolete spelling of wiriwiri.
+wisi: to hex, to bewitch.
+wisi: witchcraft.
+wisrefi: ourselves.
+wiwiri: hair.
+wiwiri: hair. feather. leaf. rope, cord. yarn, thread. herb. weed. plant, wort. weed, cannabis.
+wiwiri: leaf. hair. feather. leaf. rope, cord. yarn, thread. herb. weed. (slang) weed, cannabis.
+wolku: cloud.
+wondru
+worku: cloud.
+woron: worm.
+wortu: word. speech, discourse.
+wortubuku: dictionary.
+wowoyo: market, marketplace.
+woy: oh. ouch.
+wrak: To hate.
+wrifi: to rub.
+wrifi: to wipe.
+wroko: to work, be employed. to process (to treat food or natural substances as a part of an industrial operation).
+wroko: work, job, occupation, profession.
+wrokobere: diarrhoea.
+wrokoman: worker, employee, laborer.
+wrokomati: colleague.
+wrokope: workplace.
+wrokosani: tool, instrument. ingredient.
+wunwun: buzz, hum. carpenter bee.
+wunwun: to buzz, to hum.
+wwiri: contraction of wiwiri.
+wèt
+yagi
+yampaneisitoriman: Bidens pilosa.
+yana: there, yonder.
+yanasey: yonder.
+yanda: alternative form of yana.
+yaneyfri: jenever.
+yapi yapi: nonstandard spelling of yapiyapi.
+yapi: monkey.
+yapiyapi: synonym of yapi (monkey).
+yapon: dress.
+yapyapi: contraction of yapiyapi.
+yari: year.
+yekti: gout.
+yepi: help, assistance.
+yepi: to help, assist, support, save.
+yepiman: aid, helper.
+yere skin: (idiom.)
+yere: To hear.
+yere: to hear.
+yesi-ati: (n.) ear ache.
+yesi: ear.
+yesibuba: (n.) auricle.
+yesilinga: earring.
+yesimama: eardrum.
+yeye: spirit, ghost. in the Afro-Surinamese Winti belief system, the multi-component spiritual self in its entirety; the combination of the separate spiritual elements or entities that make up the soul.
+yeye: spiritual.
+yobo: white man.
+yoisti: correct, right.
+yoisti: correct.
+yongu: young.
+yonguman: young man.
+yorka: spirit of the deceased; specifically, in the Afro-Surinamese winti belief system, a spiritual entity specific to an individual that can remain among the living upon the death of the individual, in a benign or malicious manner, retaining the individuals memories and personality.
+yoysti: alternative spelling of yoisti.
+yu mama panpan: fuck you (an expression to show discontent with or contempt for the other party).
+yu mama panpan: goddamn (an expression to show intense anger or frustration)
+yu: you (singular).
+yu: you.
+yu: your.
+yuru: hour.
+yuru: rent.
+yuru: to rent. to rent out, to let.
+yusrefi: yourself.
+èisi: ice.
